@@ -1,4 +1,4 @@
-torenwachter
+project-pinky
 ============
 
-Testproject 1: Torenwachter.
+Testproject 1: Project Pinky.
